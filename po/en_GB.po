@@ -1,0 +1,38 @@
+# English translations for plugin package.
+# Copyright (C) 2025 Raspberry Pi
+# This file is distributed under the same license as the wf-panel-pi package.
+# Simon Long <simon@raspberrypi.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-02 04:18+0100\n"
+"PO-Revision-Date: 2025-05-23 10:36+0100\n"
+"Last-Translator: Simon Long <simon@raspberrypi.com>\n"
+"Language-Team: English (British)\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../src/ram.c:48
+msgid "Show usage as percentage"
+msgstr "Show Usage as Percentage"
+
+#: ../src/ram.c:49
+msgid "Foreground colour"
+msgstr "Foreground Colour"
+
+#: ../src/ram.c:50
+msgid "Background colour"
+msgstr "Background Colour"
+
+#: ../src/ram.c:224
+msgid "Display RAM usage"
+msgstr ""
+
+#: ../src/ram.h:32
+msgid "RAM"
+msgstr "RAM"
